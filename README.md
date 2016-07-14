@@ -1,4 +1,4 @@
-# react-native-pomelo
+# react-native-eventemitter
 
 [EventEmitter2](https://github.com/hij1nx/EventEmitter2) 在 React-Native 封装使用。 
 
