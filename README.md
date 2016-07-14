@@ -73,11 +73,10 @@ callback(value) {
 }
 .....
 
+```
 
 更多姿势参考 [EventEmitter2](https://github.com/hij1nx/EventEmitter2)。 
 
-
-```
 
 ## License
 
